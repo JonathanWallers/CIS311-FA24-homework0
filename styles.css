@@ -26,6 +26,10 @@ body {
     font-family: Manrope, sans-serif;
 }
 
+.hidden {
+    display: none !important;
+}
+
 .container {
     display: flex;
     flex-direction: column;
